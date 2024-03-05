@@ -7,7 +7,7 @@
 # google
 # www
 
-user_input = ("www.google.com")
+user_input = (input("Enter a: "))
 
 
 subdomain = ""
